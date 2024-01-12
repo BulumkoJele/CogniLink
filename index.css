@@ -15,7 +15,7 @@ header{
     background-color: rgba(129, 128, 128, 0.5);
 }
 .logo{
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 600;
     font-size: 24px;
 }
@@ -36,7 +36,7 @@ main{
     padding: 0 50px;
 }
 h1{
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 32px;
     margin-bottom: 80px;
     text-align: center;
@@ -57,7 +57,7 @@ img{
 .text ul{
     margin-bottom: 60px;
     padding-left: 270px;
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     font-size: 24px;
 }
@@ -76,7 +76,7 @@ img{
     background-color: black;
     padding: 8px 32px;
     font-size: 20px;
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: none;
     border-radius: 4px;
 }
